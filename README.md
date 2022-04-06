@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ashtagi Nijgururaj
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
-- 📫 My mail: nijgururaja12@gmail.com
+- 💞 I'm open to collaborate on data Science Projects
+- 💌 nijgururaja12@gmail.com
 
 <!---
 nijgururajofficial/nijgururajofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
