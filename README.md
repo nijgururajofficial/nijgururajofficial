@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nijgururajofficial
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Ashtagi Nijgururaj
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
 - 📫 My mail: nijgururaja12@gmail.com
 
