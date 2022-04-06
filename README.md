@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashtagi Nijgururaj
+- 👋 Hi, I’m Nijgururaj Ashtagi
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞 I'm open to collaborate on data Science Projects
