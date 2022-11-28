@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nijgururaj Ashtagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/nijgururaj_45" target="blank"><img src="https://img.shields.io/twitter/follow/nijgururaj_45?logo=twitter&style=for-the-badge" alt="nijgururaj_45" /></a> </p>
 
