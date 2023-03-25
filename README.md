@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Scientist | Machine Learning Engineer | Django Developer | Continuous Learne
+Aspiring Data Scientist | Machine Learning Engineer | Django Developer | Continuous Learner
 
 
 ## 🌐 Socials:
